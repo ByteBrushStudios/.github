@@ -4,4 +4,4 @@ Welcome to Toxic Development, a canadian based software development team ran by 
 --- 
 
 ## Join the Discord
-- [Click Here To Join](https://discord.gg/f8g9mvB9Q3)
+- [https://discord.gg/f8g9mvB9Q3](https://discord.gg/f8g9mvB9Q3)
