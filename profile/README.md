@@ -1,5 +1,6 @@
 # Toxic Development
-Welcome to Toxic Development, a canadian based software development team ran by [@TheRealToxicDev](https://github.com/TheRealToxicDev) focusing on Discord, FiveM, Read Dead Redemption 2 and of course the World Wide Web! Make sure you join our Discord below for support, suggestions and bug reports!
+Welcome to Toxic Development, a canadian based software development team focusing 
+mainly on Discord, FiveM, Read Dead Redemption 2 and of course the World Wide Web!
 
 --- 
 
