@@ -17,5 +17,6 @@ mainly on Discord, FiveM, Read Dead Redemption 2 and of course the World Wide We
 - [Discord](<https://toxicdevs.site/discord>)
 
 ## Referrals
-Check out these referral links and save your self some money when using their services!
+Check out these referral links and save your self some money on things
+likes hosting services, dedicated and virtual servers and status pages.
 - [Take me there](https://toxicdevs.site/referrals)
