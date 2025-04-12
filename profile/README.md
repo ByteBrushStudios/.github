@@ -1,22 +1,22 @@
-![Hmm](https://toxicdevs.site/banner.png)
-Welcome to Toxic Development, a canadian based software development team focusing 
-mainly on Discord, FiveM, Read Dead Redemption 2 and of course the World Wide Web!
+# ByteBrush Studios
 
---- 
+*Where code meets canvas, and creativity knows no bounds.*
 
-## Useful links
-- [Website](<https://toxicdevs.site>)
-- [Documentation](<https://toxicdevs.site/docs>)
-- [Projects](<https://toxicdevs.site/projects>)
-- [Referrals](<https://toxicdevs.site/referrals>)
-- [Blog](<https://toxicdevs.site/blog>)
+At **ByteBrush Studios**, creativity and code intertwine. We’re a collective of developers, designers, and digital artists who believe that every pixel and every line of code tells a story. Whether we're building powerful tools, crafting immersive experiences, or simply experimenting with the beauty of digital creation, our mission remains the same: to merge art and technology into something extraordinary.
 
-## Social Links
-- [Github](<https://toxicdevs.site/github>)
-- [Twitter/X](<https://toxicdevs.site/twitter>)
-- [Discord](<https://toxicdevs.site/discord>)
+Welcome to the studio—where innovation is painted one byte at a time.
 
-## Referrals
-Check out these referral links and save your self some money on things
-likes hosting services, dedicated and virtual servers and status pages.
-- [Take me there](https://toxicdevs.site/referrals)
+---
+
+## GitHub Stats
+
+![ByteBrush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteBrushStudios&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBrushStudios&layout=compact&theme=radical)
+
+---
+
+## Let's Connect
+
+- [Website](#) (Coming soon!)
+- [Discord](#) 
+- [Twitter](#)
