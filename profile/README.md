@@ -8,15 +8,28 @@ Welcome to the studio—where innovation is painted one byte at a time.
 
 ---
 
-## GitHub Stats
+## Featured Projects
 
-![ByteBrush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteBrushStudios&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBrushStudios&layout=compact&theme=radical)
+- [**ProjectName**](https://github.com/ByteBrushStudios/ProjectName) — Brief description of what it does.
+- [**AnotherCoolRepo**](https://github.com/ByteBrushStudios/AnotherCoolRepo) — Another quick summary here.
+- [**PixelForge**](https://github.com/ByteBrushStudios/PixelForge) — A fun experimental playground for pixel-perfect design meets dev.
 
 ---
 
-## Let's Connect
+## Who We Are
 
-- [Website](#) (Coming soon!)
-- [Discord](#) 
-- [Twitter](#)
+ByteBrush Studios is a home for:
+- Indie developers
+- UI/UX designers
+- Pixel artists
+- Open-source enthusiasts
+
+We're open to collaboration, feedback, and community contributions.
+
+---
+
+## Join the Studio
+
+- **Discord:** [Join our server](https://discord.gg/5ywGhtMxWH)
+- **Twitter/X:** [@HeyByteBrush](https://twitter.com/HeyByteBrush)
+- **Website:** Coming soon!
