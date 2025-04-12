@@ -10,9 +10,7 @@ Welcome to the studio—where innovation is painted one byte at a time.
 
 ## Featured Projects
 
-- [**ProjectName**](https://github.com/ByteBrushStudios/ProjectName) — Brief description of what it does.
-- [**AnotherCoolRepo**](https://github.com/ByteBrushStudios/AnotherCoolRepo) — Another quick summary here.
-- [**PixelForge**](https://github.com/ByteBrushStudios/PixelForge) — A fun experimental playground for pixel-perfect design meets dev.
+- [**SysManix**](https://github.com/ByteBrushStudios/SysManix) — A secure, cross-platform service management API that provides controlled access to system services through a RESTful interface.
 
 ---
 
